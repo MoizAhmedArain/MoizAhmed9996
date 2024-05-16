@@ -1,7 +1,7 @@
- Hi, I’m @Moiz Ahmed Arain
- I’m interested in working backend development
- I’m currently learning Software Engineering
- I'm tring to learn something from the best programmers which help me to grow
+ Hi, I’m @Moiz Ahmed Arain,
+ I’m interested in working backend development,
+ I’m currently learning Software Engineering,
+ I'm tring to learn something from the best programmers which help me to grow.
   
 
 <!---
